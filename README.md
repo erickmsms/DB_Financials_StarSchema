@@ -2,6 +2,12 @@
 
 Este projeto foi desenvolvido com o objetivo de transformar o conjunto de dados *Financials Sample* em um modelo dimensional robusto, utilizando o Power BI como plataforma de análise. Partindo de uma única tabela, foi estruturado um **modelo estrela completo**, com tabelas fato e dimensão que permitem explorar insights estratégicos sobre vendas, produtos, descontos e sazonalidade.
 
+<img width="1395" height="779" alt="Página 1 - DB" src="https://github.com/user-attachments/assets/2d6d0256-0963-4777-b285-6fc64dbdee5b" />
+<img width="1395" height="779" alt="Página 2 - DB" src="https://github.com/user-attachments/assets/a5340769-f473-439e-b656-25b064c965a4" />
+<img width="1194" height="848" alt="StarSchemaCriado" src="https://github.com/user-attachments/assets/9a56ce92-bd48-499d-a351-0edf7cac9d89" />
+
+
+
 ## 🧠 Motivação
 
 Em vez de trabalhar com uma tabela única e plana, optei por aplicar técnicas de modelagem dimensional para melhorar a performance das análises e facilitar a criação de medidas DAX. O resultado é um modelo limpo, escalável e pronto para responder perguntas de negócio com agilidade.
